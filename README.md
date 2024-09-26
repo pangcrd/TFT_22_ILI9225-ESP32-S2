@@ -4,6 +4,7 @@
 ---
 ## Video test
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/_LET7oHLk2U" frameborder="0" allowfullscreen></iframe>
+[Watch video on YouTube](https://www.youtube.com/shorts/_LET7oHLk2U)  
+
 ---
 
